@@ -2,7 +2,7 @@
 
 A K-nearest-neighbours classifier written in NumPy that identifies 10 people from 32x32 grayscale face images, compared against scikit-learn's SVM and Gaussian Naive Bayes.
 
-**Interactive demo:** [Run it in your browser](https://laiba-khawar-portfolio.vercel.app/work/face-knn#demo)
+**Interactive demo:** [Run it in your browser](https://www.laibakhawar.com/work/face-knn#demo)
 
 ## How it works
 
@@ -63,4 +63,4 @@ The KNN predicts with Python loops over all 1,500 training faces for each test f
 
 ## Author
 
-[Laiba Khawar](https://github.com/LaibaKhawar) · [LinkedIn](https://www.linkedin.com/in/laiba-k-00b2b1249/)
+[Laiba Khawar](https://github.com/LaibaKhawar) · [LinkedIn](https://www.linkedin.com/in/laibakhawar/)
